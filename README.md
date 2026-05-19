@@ -1,6 +1,7 @@
 # Linux-Commands
-# Simon Malachi S
-# 212224040318
+
+## Name: Simon Malachi S
+## Reg no: 212224040318
 
 ## Aim:
 
